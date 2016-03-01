@@ -1,0 +1,26 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.ng2translate",
+		"tns-android": {
+			"version": "1.6.2"
+		}
+	},
+	"dependencies": {
+		"angular2": "2.0.0-beta.7",
+		"nativescript-angular": "0.0.35",
+		"ng2-translate": "^1.7.3",
+		"parse5": "1.4.2",
+		"punycode": "1.3.2",
+		"querystring": "0.2.0",
+		"reflect-metadata": "0.1.2",
+		"rxjs": "5.0.0-beta.2",
+		"tns-core-modules": "^1.7.0-angular-0",
+		"url": "0.10.3",
+		"zone.js": "0.5.15"
+	},
+	"devDependencies": {
+		"nativescript-dev-typescript": "^0.3.1",
+		"shelljs": "^0.5.3",
+		"typescript": "^1.8.2"
+	}
+}
